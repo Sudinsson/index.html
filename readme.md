@@ -1,6 +1,6 @@
 # Tentang Web Waterrior
 
-![Gambar Galon](Galon.jpeg)
+![Gambar Galon](https://cdn1-production-images-kly.akamaized.net/YKvzlCGsbXRoiO1z_jQuFfc7nt8=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3133966/original/031684900_1589991361-Foto_1.jpg)
 
 **Deskripsi :**
 
